@@ -1,5 +1,5 @@
 # go-gh-proxy
-GitHub反向代理加速项目，使用Golang重写，原储存库https://github.com/hunshcn/gh-proxy
+GitHub反向代理加速项目，使用Golang重写，原储存库为https://github.com/hunshcn/gh-proxy
 ## 基本信息
 默认端口3426，根目录下的ico和html为网页前端，json为配置文件
 ## 配置文件
